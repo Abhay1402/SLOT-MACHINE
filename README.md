@@ -1,8 +1,19 @@
-Slot Machine Game 🎰
-This is a simple text-based slot machine game built with Python. The game allows users to deposit money, place bets on multiple lines, and spin the slot machine to try their luck.
+ 🎰 Slot Machine Game  
+This is a fun, text-based slot machine game where you can test your luck by placing bets and spinning the reels!  
 
-Features:-
-This is a simple text-based slot machine game where players can deposit money, place bets on up to three lines, and spin the machine to try their luck. The game features randomized slot results, and players win based on matching symbols. The winnings are calculated according to predefined symbol values, and the balance is updated after each round. Players can continue playing as long as they have enough balance or choose to quit at any time.
+ 🔥 Features  
+✅ Deposit money before playing  
+✅ Bet on 1 to 3 lines  
+✅ Randomized slot machine results 🎲  
+✅ Win based on matching symbols 💰  
+✅ Track your balance after each spin  
 
-How To Play:-
-To play, start by running the script in a Python environment. First, enter the amount you want to deposit. Then, choose how many lines (1-3) you want to bet on and set your bet amount per line. Once the bet is placed, spin the machine and check if you win. The game will display the slot results, the amount won (if any), and update your balance accordingly. You can continue playing until you decide to quit or run out of funds.
+ 🎮 How to Play  
+🎯 Step 1: Start the game by running the script in a Python environment.  
+💵 Step 2: Enter the amount you want to deposit.  
+🎰 Step 3: Choose how many lines (1-3) you want to bet on.  
+💰 Step 4: Set your bet amount per line.  
+🔄 Step 5: Spin the machine and check if you win!  
+🏆 Step 6: Your balance updates after each round—keep playing or quit anytime!  
+
+🚀 Try your luck and see how much you can win! 🎲💵
